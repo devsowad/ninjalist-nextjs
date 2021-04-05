@@ -5,12 +5,13 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home - Create Next App</title>
+        <title>Contact - Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       <Container fixed>
         <Typography align="center" className="main-text" variant="h1">
-          Homepage
+          Contactpage
         </Typography>
       </Container>
     </>
