@@ -26,7 +26,7 @@ const Navbar = () => {
           <div className={classes.logoContainer}>
             <Link href="/">
               <a>
-                <img className={classes.logo} src="/ninja.jpg" />
+                <img className={classes.logo} src="/vercel.svg" />
               </a>
             </Link>
           </div>
